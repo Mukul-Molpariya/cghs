@@ -170,6 +170,28 @@ p {
     }
 }
 
+/* Link_icons */
+
+.Link_icons{
+    margin: 25px;
+    background: #81c6f5;
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    color: #fff;
+    flex-wrap: wrap;
+}
+
+.Link_icons a{
+    margin: 0 25px;
+    color: #fff;
+}
+.Link_icons a:hover{
+    color: orangered;
+}
+
 /* Suggestion */
 /* form */
 
