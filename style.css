@@ -223,6 +223,7 @@ p {
 .form-group input[type="text"],
 .form-group input[type="tel"],
 .form-group input[type="email"],
+.form-group input[type="Country"],
 .form-group textarea,
 .form-group select {
     width: 100%;
